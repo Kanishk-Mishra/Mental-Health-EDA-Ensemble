@@ -99,3 +99,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Kanishk Mishra](https://github.com/Kanishk-Mishra)  
 
 Feel free to reach out for collaboration or questions.
+
+📍 Check out my Kaggle profile [here](https://www.kaggle.com/canisqmisra)
